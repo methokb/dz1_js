@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+.all{
+    width: 500px;
+    text-align: justify;
+    line-height: 40px;
+    text-indent: 50px;
+}
+h1{
+    color: blue;
+    line-height: 60px;
+    text-align: center;
+    font-size: 25px;
+}
+.Second__title {
+    margin-top: 17px;
+}
+.Last__title {
+    margin-top: 15px;
+}
+b{
+    color: red;
+}
+p {
+    font-size: 20px;
+}
+i{
+    color: blue;
+}
+
+h2{
+    color: blue;
+    text-align: center;
+    font-size: 18px;
+}
+
+.i{
+    font-size: 18px;
+}
